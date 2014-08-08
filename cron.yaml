@@ -1,0 +1,5 @@
+cron:
+- description: daily summary job
+  url: /PATH/TO/BOT
+  schedule: every 40 mins from 14:00 to 01:00
+
